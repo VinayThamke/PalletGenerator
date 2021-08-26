@@ -1,0 +1,32 @@
+td{
+  background: grey;
+  width: 100vw;
+  height: 87vh;
+  text-align: center;
+  color: black;
+}
+
+#one{
+  background: purple;
+}
+
+#two{
+  background: teal;
+}
+
+#three{
+  background: gold;
+}
+
+#four{
+  background: silver;
+}
+
+#five{
+  background: orange;
+}
+
+h1{
+  background: black;
+  color: white;
+}
